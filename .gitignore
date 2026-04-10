@@ -1,0 +1,11 @@
+# Env
+.env
+
+# Firebase credentials
+firebase-service-account.json
+*.json
+
+# Build Go
+*.exe
+*.log
+*.test
